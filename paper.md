@@ -16,3 +16,7 @@ A large uncertainty in literature on depression and brain structure is
 whether it is affected by socioeconomic variables.
 
 #Simulations blah blah
+
+#Methodoloy
+We compared our measurements with a mdoel simulation.
+The model is detail in Millward et al. (2005).
