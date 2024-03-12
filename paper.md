@@ -26,3 +26,7 @@ The simulations indicate bah blah
 
 # Figures 
 Figures go in their own section
+
+# Conclusions
+We have made fantastic insight into...
+Nontheless, ....
