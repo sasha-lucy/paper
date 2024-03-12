@@ -1,7 +1,9 @@
-# Title
-Measurements of Depression and Brain Structure in the UK Biobank
+#Title
+Measurements and simulations of Depression and Brain Structure in the UK Biobank
+
 #Author
 Sasha Johns
+Graham Millward
 
 #Introduction
 We present measurements of recent depressive symptoms and cortical volume.
@@ -12,3 +14,5 @@ Johns et al (2008)...blah blah blah
 
 A large uncertainty in literature on depression and brain structure is
 whether it is affected by socioeconomic variables.
+
+#Simulations blah blah
