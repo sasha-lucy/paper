@@ -2,8 +2,8 @@
 Measurements and simulations of Depression and Brain Structure in the UK Biobank
 
 # Author
-Sasha Johns
-Graham Millward
+Sasha Johns, University of Manchester
+Graham Millward, University of Life 
 
 # Introduction
 We present measurements of recent depressive symptoms and cortical volume.
