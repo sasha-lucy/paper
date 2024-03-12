@@ -1,7 +1,9 @@
 # Title
-Depression and Brain Structure in the UK Biobank
+Simulations of Depression and Brain Structure in the UK Biobank
+
 #Author
 Sasha Johns
+Graham Millward
 
 #Introduction
 We present measurements of recent depressive symptoms and cortical volume.
