@@ -23,3 +23,6 @@ The model is detail in Millward et al. (2005).
 
 # Results  
 The simulations indicate bah blah
+
+# Figures 
+Figures go in their own section
